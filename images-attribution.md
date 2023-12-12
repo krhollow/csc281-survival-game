@@ -1,19 +1,33 @@
 # resource attribution
 
 📦 [csc281-survival-game](https://github.com/krhollow/csc281-survival-game.git)
+\
  ┣ 📂 [audio](#-audio)
+\
  ┣ 📂 [images](#-images)
+\
  ┃ ┣ 📂 [closet](#-closet)
+\
  ┃ ┃ ┣ 📂 [base layers](#-base-layers)
+\
  ┃ ┃ ┣ 📂 [extras](#-extras)
+\
  ┃ ┃ ┣ 📂 [gloves](#-gloves)
+\
  ┃ ┃ ┣ 📂 [hats](#-hats)
+\
  ┃ ┃ ┣ 📂 [jackets](#-jackets)
+\
  ┃ ┃ ┣ 📂 [pants](#-pants)
+\
  ┃ ┃ ┣ 📂 [second layers](#-second-layers)
+\
  ┃ ┃ ┣ 📂 [shoes](#-shoes)
+\
  ┃ ┃ ┣ 📂 [socks](#-socks)
+\
  ┃ ┣ 📂 [days](#-days)
+\
  ┗ ...
 
 #### 📁 audio
@@ -86,8 +100,8 @@
 - [*`wasilla.jpeg`*](https://github.com/krhollow/csc281-survival-game/blob/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/wasilla.jpeg)
     - [City of Wasilla, AK Home, 54% OFF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.colegiosantainescampestre.edu.co%2F%3Fy%3Dcity-of-wasilla-ak-home-zz-X9LRadtg&psig=AOvVaw1sN0wTmg1dzRn9GUlgQHF8&ust=1702420624275000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjkv5m5iIMDFQAAAAAdAAAAABAK)
 
-- ##### 📁 closet {#-closet}
-    - ###### 📁 [base layers](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/base%20layers) {#-base-layers}
+- ##### 📁 closet
+    - ###### 📁 [base layers](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/base%20layers)
         - *`hulk.png`*
             - [Details of Marvel's 'Hulk' Film Rights - Fans Can Relax About Sequel - Forbes - Mark Hughes](https://www.forbes.com/sites/markhughes/2015/06/19/details-of-marvels-hulk-film-rights-fans-can-relax-about-sequel/?sh=205463c11916)
         - *`long sleeve.png`*
@@ -98,14 +112,14 @@
             - [Barbie The Movie Logo Pink Tee](https://creations.mattel.com/products/barbie-movie-logo-unisex-pink-tee)
         - *`waffle.png`*
             - [RedHead Tower Thermal Long-Sleeve Henley for Men - Charcoal/Gray](https://www.basspro.com/shop/en/redhead-tower-thermal-long-sleeve-henley-for-men?searchTerm=3624491)
-    - ###### 📁 [extras](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/extras) {#-extras}
+    - ###### 📁 [extras](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/extras)
         - *`no.png`*
             - <a href="https://www.vecteezy.com/free-vector/no-symbol">No Symbol Vectors by Vecteezy</a>
         - *`scarf.png`*
             [NC State Scarf - NCSU Wolfpack Original Classic Woven](https://a.co/d/czQe87o)
         - *`snow pants.png`*
          - [Outdoor Gear Kids' Crest Snow Pants](https://www.publiclands.com/p/outdoor-gear-kids-crest-snow-pants-16ogeyythcrstpntxaoa/16ogeyythcrstpntxaoa?PDPShare=1)
-    - ###### 📁 [gloves](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/gloves) {#-gloves}
+    - ###### 📁 [gloves](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/gloves)
         - *`boxing gloves.png`*
             - [Venum Classic Boxing Gloves - Unisex - Black - 16 oz](https://www.walmart.com/ip/Venum-Classic-Boxing-Gloves-Unisex-Black-16-oz/670710532)
         - *`fingerless gloves.png`*
@@ -116,7 +130,7 @@
             - [Carhartt Men's W.P. Waterproof Insulated Mitt](https://a.co/d/5mzkGyx)
         - *`touchscreen gloves.png`*
             - [FanVince Winter Gloves Touch Screen Water Resistant Windproof Thermal for Running Cycling Driving Hiking - Warm Gifts for Men Women](https://a.co/d/hGnfL1O)
-    - ###### 📁 [hats](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/hats) {#-hats}
+    - ###### 📁 [hats](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/hats)
         - *`baseball cap.png`*
             - [CANVAS MESH-BACK CAP](https://www.carhartt.com/product/100286/canvas-mesh-back-cap?categoryCode=default&colorCode=B53_SW)
         - *`beanie.png`*
@@ -127,7 +141,7 @@
             - [Mr Clean](https://alldimensions.fandom.com/wiki/Mr_Clean)
         - *`ski mask.png`*
             - [CARHARTT® KNIT INSULATED FACE MASK](https://www.carhartt.com/product/104485-BRNOS?kpid=Ecomm_PMAX_Brand-Plus_go_cmp-18088200172_adg-_ad-__dev-c_ext-_prd-104485-BRNOS_sig-EAIaIQobChMIxuubgcCIgwMVcjfUAR1HOwc4EAQYGSABEgKqLfD_BwE&gad_source=1&gclid=EAIaIQobChMIxuubgcCIgwMVcjfUAR1HOwc4EAQYGSABEgKqLfD_BwE)
-    - ###### 📁 [jackets](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/jackets) {#-jackets}
+    - ###### 📁 [jackets](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/jackets)
         - *`bathrobe.png`*
             - [ROCKÅN](https://www.ikea.com/us/en/p/rockan-bathrobe-white-00391918/)
         - *`parka.png`*
@@ -139,7 +153,7 @@
             - [Trench Coat](https://www.coachoutlet.com/products/trench-coat/CF804.html)
         - *`windbreaker.png`*
             - [Unisex Water-Resistant Lightweight Windbreaker](https://www.jiffyshirts.com/independenttradingco-EXP54LWZ.html?ac=Black+Camo)
-    - ###### 📁 [pants](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/pants) {#-pants}
+    - ###### 📁 [pants](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/pants)
         - *`cargo shorts.png`*
             - [Gap Cargo Short Khaki Mens Size 32 With Pockets](https://poshmark.com/listing/Gap-Cargo-Short-Khaki-Mens-Size-32-With-Pockets-61e4bc4167bd9166c53591a5)
         - *`jeans.png`*
@@ -150,7 +164,7 @@
             - [Adult Gold Hip Hop Harem Pants](https://www.partycity.com/adult-gold-hip-hop-harem-pants-P890428.html)
         - *`sweatpants.png`*
             - [PREMIUM VIEWER COLORBLOCK JOGGERS](https://jarvis.store/products/premium-viewer-color-block-joggers-grey)
-    - ###### 📁 [second layers](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/second%20layers) {#-second-layers}
+    - ###### 📁 [second layers](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/second%20layers)
         - *`confused.png`*
             - [Question Mark Clipart , Png Download - Question Mark Confused Clipart, Transparent Png](https://www.vhv.rs/viewpic/hJxoJoR_question-mark-clipart-png-download-question-mark-confused/)
         - *`crewneck sweatshirt.png`*
@@ -161,7 +175,7 @@
             - [Vtg Heirloom Collectibles 2004 Ugly Cardigan Christmas Snowman Sweater Sz L Red](https://www.ebay.com/itm/235295056997)
         - *`thermal hoodie.png`*
             - [RAIN DEFENDER® RELAXED FIT MIDWEIGHT SHERPA-LINED FULL-ZIP SWEATSHIRT](https://www.carhartt.com/product/103308/rain-defender-relaxed-fit-midweight-sherpa-lined-full-zip-sweatshirt)
-    - ###### 📁 [shoes](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/shoes) {#-shoes}
+    - ###### 📁 [shoes](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/shoes)
         - *`flip flop.png`*
             - [Quiksilver Men's Carver Suede 3 Point Flip Flop Athletic Sandal](https://a.co/d/hVSDg7t)
         - *`ice shoes.png`*
@@ -174,7 +188,7 @@
             - [Carhartt Men's 10" Waterproof Insulated PAC Composite Toe Boot](https://a.co/d/9ghs2zj)
         - *`yeezys.png`*
             - [didas Mens Yeezy Foam Runner GW3354](https://a.co/d/50ZipxF)
-    - ###### 📁 [socks](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/socks) {#-socks}
+    - ###### 📁 [socks](https://github.com/krhollow/csc281-survival-game/tree/a2bfa1dedfd1369a47eec5664c3c284da7f7cf08/images/closet/socks)
         - *`barefoot.png`*
             - [Feetsies | Free Images at Clker.com - vector clip art online, royalty free & public domain](https://www.pinterest.com/pin/517773288386619124/)
         - *`crew socks.png`*
